@@ -1,5 +1,5 @@
 # VITBML-EDA-1
-MY github link is:  https://github.com/19PA1A0509/VITBML-EDA-1.git
+My colab link : https://colab.research.google.com/drive/1ZlBs4Vx9bloa7Ynzl2r9o_GowSACt5XA
 
 
                     1.From the above project we understand the functions of pandas.
